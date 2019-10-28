@@ -10,22 +10,22 @@
 #### DESARROLLO
 La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienvenida parecida a la que tenemos aquí abajo.
 
-1. Para empezar a crear un proyecto nuevo, seleccionamos la opcion **Start a new Android Studio Project** y se generará todo lo necesario para crear nuestra aplicación.
+1. Para empezar a crear un proyecto nuevo, seleccionamos la opcion **Start a new Android Studio Project**.
  ![Listando todos los documentos de una colección](img/primerApp.png)
-
- 2. A continuación elegimos el templete para nuestra apliación, en nuestro caso vamos a elegir **“Empty Activity”**.
+<hr>
+ 2. A continuación elegimos el templete para nuestra apliación, en nuestro caso elegimos **“Empty Activity”**.
  ![Listando todos los documentos de una colección](img/seleccionPanel.png)
- **Nota:**
+ ### **Nota:**
 
  Primero dominaremos los templetes básicos,posteriormente podrás intentar con otros estilos de templetes.
-
+ <hr>
  3. Vamos a configurar nuestro proyecto.
 
-    a. Nombre de la apliación.
+    a. Ingresamos un nombre para nuestra apliación.
 
-    b. Nombre de tu equipo **(Todo tu equipo debe usar el mismo nombre).**
+    b. Ingresamos un nombre para tu equipo. **(Todo tu equipo debe usar el mismo nombre).**
 
-    c. Selecionar java como lenguaje.
+    c. Selecionar **Java** como lenguaje de la aplicación.
 
     d. En la opción Minimum API level, seleccionar el SDK: **KitKat**
 
