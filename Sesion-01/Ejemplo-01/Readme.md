@@ -19,7 +19,7 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 
  Primero dominaremos los templetes básicos,posteriormente podrás intentar con otros estilos de templetes.
 
- 3. Vamos a crear nuestro proyecto.
+ 3. Vamos a configurar nuestro proyecto.
 
     a. Nombre de la apliación.
 
@@ -30,3 +30,6 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
     d. En la opción Minimum API level, seleccionar el SDK: **KitKat**
 
  ![Listando todos los documentos de una colección](img/configuracionAppControl.png)
+
+
+
